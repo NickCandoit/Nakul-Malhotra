@@ -1,81 +1,24 @@
-# Example Product Manager Portfolio (with Template)
+# My Portfolio
 
-> This repository shows **how to structure, write, and present product work** using screenshots, walkthroughs, and case studies.
+## About Me
 
-If you’re asking:
+Welcome to my portfolio! I am a passionate individual with a keen interest in technology and design.
 
-- *What should my product portfolio look like?*
-- *How do I present my product work clearly?*
-- *How do I turn projects into compelling case studies?*
-- *Do you have an example of a great product portfolio?*
+## My Work
 
-You’re in the right place.
+Here you will find showcases of my projects, including web applications and graphic designs. Click on the images to explore more!
+- Project 1 ![Image of Project 1](link_to_image1)
+- Project 2 ![Image of Project 2](link_to_image2)
 
-This repo is both:
+## Contact Me
 
-1. **A live example** of a product portfolio
-2. **A free template** you can copy to make your own
+Feel free to reach out via email at myemail@example.com or connect with me on social media.
 
----
+## Skills
 
-## 👀 See the portfolio first
+- Responsive Web Design
+- JavaScript
+- React
+- Graphic Design
 
-Before you read anything else:
-
-- 🌐 Explore the example [portfolio](https://product-portfolio-example.vercel.app/)
-
-- 🎥 Checkout a quick [tour](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df) of how it works: 
-
-[![Watch the video](/public/assets/preview/portfolio_tour.png)](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df)
-
----
-
-## 🧩 The structure of the portfolio
-
-The site has just a few simple sections:
-
-### Home
-
-A quick orientation to who you are and links to your projects.
-
-### About
-
-Your path into product, with a bit of personality.
-
-### Projects
-
-Each project gets its own page where you explain:
-
-- The problem
-- Your role
-- The decisions you made
-- The challenges
-- The outcomes
-- Screenshots of the product in action
-
----
-
-## 🚀 Use this as a template for your own portfolio
-
-Once you’ve explored the example and understand the structure, you can use this repo to build your own. Start building by:
-
-1. Watch the [tour](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df) of the example
-2. Write your project stories using the same structure
-3. Copy this repo as a template
-4. Watch the setup [video](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
-5. Personalize and deploy
-
-You do **not** need to be a strong engineer to use this especially when you can using coding assistants to do the coding work on your behalf. The majority of the work will be in writing up the project stories (AI can even help you there!)
-
-If you can edit text files and upload images, you can make this work.
-
----
-
-## 🙌 Inspiration & credits
-
-This template was created in collaboration with [@nicolemors](https://github.com/nicolemors). The template was developed ontop of the [next.js blog template](https://github.com/timlrx/tailwind-nextjs-starter-blog). The structure of project pages was inspired by [Bart Krawczyk's portfolio](https://www.bartkrawczyk.com/portfolio). Creating a template for product managers was inspired by [@manuarora700](https://github.com/manuarora700) and his work on templatizing a [developer portfolio website](https://github.com/manuarora700/simple-developer-portfolio-website).
-
----
-
-If this repo helps you build your portfolio, consider starring it ⭐
-
+Check out the interactive pictures and hover effects for a modern look!
